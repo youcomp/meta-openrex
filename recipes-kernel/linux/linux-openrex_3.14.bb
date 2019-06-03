@@ -17,6 +17,6 @@ LOCALVERSION = "-fslc"
 #PV .= "+git${SRCPV}"
 
 SRCBRANCH = "jethro"
-SRCREV = "9773f86977a6a3de4a2aeaf3e1c121257f6ae5f9"
+SRCREV = "e75f1f8deaaa63f3d2dc1a05b37e7f19b559166e"
 
-COMPATIBLE_MACHINE = "(mx6|mx7|imx6q-openrex)"
+COMPATIBLE_MACHINE = "(mx6|mx7|imx6q-openrex|imx6s-openrex)"
